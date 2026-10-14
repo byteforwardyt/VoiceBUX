@@ -25,7 +25,7 @@ The file is signed with an Apple Developer ID and notarized by Apple, so Gatekee
 
 - Version: 0.0.3
 - File: [VoiceBUX-0.0.3-macOS-arm64.dmg](https://github.com/byteforwardyt/VoiceBUX/releases/download/v0.0.3/VoiceBUX-0.0.3-macOS-arm64.dmg) (592 MB)
-- SHA-256: `5d6d2d11dfecc421b945ade27ef544626cc1235872551129fd76ce4430950f42`
+- SHA-256: `60a7b19513a819a9d1f091426f1b7fdd55c9c9fd63cf4098c20a94b7b5d2d0a3`
 
 1. Click the download button.
 2. Open the disk image.
